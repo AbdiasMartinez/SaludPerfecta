@@ -1,4 +1,6 @@
 # SaludPerfecta
+## Abdías Martínez
+## Roberto Rodriguez
 
 Aplicación móvil desarrollada en **Kotlin con Jetpack Compose**, cuyo objetivo es gestionar el registro de usuarios y la programación de citas de manera sencilla y validada.
 
